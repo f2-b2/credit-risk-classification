@@ -76,14 +76,14 @@ Stages in the machine learning model process:
 
 ### Results
 
-* Model 1 (Original Data) Classification Report:
-![Orig_report](https://github.com/f2-b2/credit-risk-classification/assets/118685191/458a590b-4d83-4a58-b2f1-394d6e11280d)
+* Model 1 (Original Data) Classification Report:  
+![Orig_report](https://github.com/f2-b2/credit-risk-classification/assets/118685191/458a590b-4d83-4a58-b2f1-394d6e11280d)  
 The balanced_accuracy score of the model: 0.9442676901753825
 
 #### 
 
-* Model 2 (Resampled Data) Classification Report:
-![resampled_report](https://github.com/f2-b2/credit-risk-classification/assets/118685191/84745a62-ece2-4f9c-941e-776d65265d4c)
+* Model 2 (Resampled Data) Classification Report:  
+![resampled_report](https://github.com/f2-b2/credit-risk-classification/assets/118685191/84745a62-ece2-4f9c-941e-776d65265d4c)  
 The balanced_accuracy score of the model: 0.9959744975744975
 
 ### Summary
